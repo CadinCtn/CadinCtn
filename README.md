@@ -21,7 +21,6 @@
  - Durante o perído de agosto de 2022 até dezembro de 2023, realizei o curso técnico de Desenvolvimento de Sistemas do Senai de Londrina.
  - Atualmente estou cursando Engenharia de Software no UniSenai Londrina-PR, estou no 4° período (4/8).
 </br>
-</br>
 
 #### 📞 Formas de contato:
 <code><a href="https://www.linkedin.com/in/cristyan-gabriel-rocha-b30411268/"><img img width="50px" src="https://www.svgrepo.com/show/299433/linkedin.svg" /></a></code>
