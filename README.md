@@ -24,4 +24,4 @@
 
 #### 📞 Formas de contato:
 <code><a href="https://www.linkedin.com/in/cristyan-gabriel-rocha-b30411268/"><img img width="50px" src="https://www.svgrepo.com/show/299433/linkedin.svg" /></a></code>
-<code><img img width="50px" src="https://www.svgrepo.com/show/243092/gmail.svg" /> cristyanrochaoff@gmail.com</code>
+<code><img img width="50px" src="https://www.svgrepo.com/show/243092/gmail.svg" /></code> cristyanrochaoff@gmail.com
