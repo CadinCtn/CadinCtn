@@ -26,7 +26,7 @@
 
 ### 📚 Formações:
  - Durante o perído de agosto de 2022 até dezembro de 2023, realizei o curso técnico de Desenvolvimento de Sistemas do Senai de Londrina.
- - Atualmente estou cursando Engenharia de Software no UniSenai Londrina-PR, estou no 4° período (4/8).
+ - Atualmente estou cursando Engenharia de Software no UniSenai Londrina-PR, estou no 5° período (5/8).
 </br>
 
 
